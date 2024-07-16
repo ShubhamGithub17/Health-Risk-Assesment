@@ -46,7 +46,7 @@ st.markdown(
     }
     [data-testid="stHeader"]{
         background: rgb(200,148,235);
-        background: linear-gradient(90deg, rgba(200,148,235,0.9921218487394958) 14%, rgba(114,168,196,1) 100%);
+        background: linear-gradient(90deg, rgba(200,148,235,1) 35%, rgba(114,168,196,1) 100%);
     }
          .reportview-container {
             margin-top: -2em;

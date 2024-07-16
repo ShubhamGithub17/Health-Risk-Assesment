@@ -20,11 +20,12 @@ st.markdown(
         height: 10vh;
     }
     section{
-        background-color: #cccccc;
-        background-image: linear-gradient(#D4CD82, #8e9ebf);
+        background: rgb(212,205,130);
+        background: linear-gradient(90deg, rgba(212,205,130,1) 10%, rgba(142,158,191,1) 90%);
     }
     [data-testid="stHeader"]{
-        background-color:#dbdaa0;
+        background: rgb(212,205,130);
+        background: linear-gradient(90deg, rgba(212,205,130,1) 10%, rgba(142,158,191,1) 90%);
     }
     </style>
     
